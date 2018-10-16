@@ -1,0 +1,105 @@
+.Body
+{
+	width: 800px;
+	height: 500px;
+	border-radius: 20px;
+	border: 2px solid black;
+}
+
+.Logo
+{	
+	width: 760px;
+	height: 50px;
+	background-image: url(../Images/Logo.png);
+	background-size: cover;
+	background-repeat: no-repeat;
+	position: absolute;
+	left:30px;
+}
+
+.Pay_Wave
+{
+	width: 200px;
+	height: 60px;
+	background-image: url(../Images/PayWave.png);
+	background-size: cover;
+	background-repeat: no-repeat;
+	position: absolute;
+	top: 100px;
+	left: 590px;
+}
+
+.City
+{
+	width: 800px;
+	height: 150px;
+	background-image: url(../Images/City.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	position: absolute;
+	top: 170px;
+}
+
+.Chip
+{
+	width: 110px;
+	height: 80px;
+	background-image: url(../Images/Chip.png);
+	background-size: cover;
+	background-repeat: no-repeat;
+	position: absolute;
+	top: 175px;
+	left: 150px;
+}
+
+.Code
+{
+	color: grey; 
+	position: absolute;
+	top: 310px;
+	width: 800px;
+}
+
+#c1, #c2, #c3, #c4{
+	font-size: 30px;
+	text-align: center;
+	width: 200px;
+	background-color: white;
+}
+#c1, #c2
+{
+    float: left;
+   
+}
+#c3, #c4
+{
+    float: right;
+}
+
+.Valid
+{
+	position: absolute;
+	top: 380px;
+	left: 380px;
+}
+
+.Name
+{
+	position: absolute;
+	top: 400px;
+	left: 70px;
+	font-size: 30px;
+	color: grey;
+}
+.Visa
+{
+	width: 230px;
+	height: 75px;
+	background-image: url(../Images/Visa.png);
+	background-size: cover;
+	background-repeat: no-repeat;
+	position: absolute;
+	position: absolute;
+	top: 421px;
+	left: 560px;
+}
